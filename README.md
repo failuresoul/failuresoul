@@ -1,18 +1,23 @@
 <div align="center">
 
+<!-- Animated Header -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="80" height="80" />
 
 # Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="45" /> I'm Nurul Absar Shadik
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=AI%2FML+Researcher;Full-Stack+Developer;CSE+3rd+Year+@+KUET;" alt="Typing SVG" />
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=AI%2FML+Researcher;Full-Stack+Developer;CSE+3rd+Year+@+KUET;Building+Practical+AI+Solutions" alt="Typing SVG" />
 
+<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<a href="https://linkedin.com/in/nurul-absar-shadik-01143b373"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nurulabsarshadik65@gmail.com"><img src="https://img.shields.io/badge/Email-Me-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://kaggle.com/nurulabsarshadik"><img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://github.com/failuresoul"><img src="https://img.shields.io/badge/GitHub-Star-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<!-- Social Badges -->
+<a href="https://linkedin.com/in/nurul-absar-shadik-01143b373"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nurulabsarshadik65@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/failuresoul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://kaggle.com/nurulabsarshadik"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=failuresoul&label=Profile%20Views&color=00D4FF&style=flat-square" />
 
 </div>
@@ -153,12 +158,75 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 </a>
 </p>
 
+<br/>
+
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Repos-failuresoul-0D1117?style=for-the-badge&logo=github&labelColor=00D4FF" alt="Repos" />
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/github/stars/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" alt="Stars" />
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/github/followers/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" alt="Followers" />
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Total%20Commits-failuresoul-0D1117?style=for-the-badge&logo=github&labelColor=00D4FF" alt="Commits" />
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/PRs-failuresoul-0D1117?style=for-the-badge&logo=github&labelColor=00D4FF" alt="PRs" />
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/Issues-failuresoul-0D1117?style=for-the-badge&logo=github&labelColor=00D4FF" alt="Issues" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Contributions
+
 <p align="center">
 
-| <img src="https://img.shields.io/badge/Repos-failuresoul-0D1117?style=for-the-badge&logo=github&labelColor=00D4FF" /> | <img src="https://img.shields.io/github/stars/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" /> | <img src="https://img.shields.io/github/followers/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" /> | <img src="https://img.shields.io/github/commits/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" /> | <img src="https://img.shields.io/github/pulls/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" /> |
-|:---:|:---:|:---:|:---:|:---:|
-| **Repos** | **Stars** | **Followers** | **Commits** | **PRs** |
+<a href="https://github.com/failuresoul">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=failuresoul&theme=tokyonight" alt="Repos per Language" width="45%" />
+</a>
 
+<a href="https://github.com/failuresoul">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=failuresoul&theme=tokyonight" alt="Most Commit Language" width="45%" />
+</a>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/failuresoul/failuresoul/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 ---
@@ -166,18 +234,16 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 ## 🌟 Thanks for Visiting!
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=failuresoul&label=Total%20Profile%20Views&color=00D4FF&style=flat-square" />
-</p>
 
-<br/>
-
-<p align="center">
+<br/><br/>
 
 ⭐ **Star my repos if you find them useful!** ⭐
 
 </p>
 
----
+<br/>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
