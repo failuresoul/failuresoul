@@ -215,14 +215,6 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/failuresoul/failuresoul/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
-</p>
-
----
-
 ## 💡 Random Dev Quote
 
 <p align="center">
