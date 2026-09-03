@@ -1,249 +1,137 @@
-# 👋 Hi, I'm Nurul Absar Shadik
+<h1 align="center">Hi there, I'm Nurul Absar Shadik 👋</h1>
 
-### 🔬 AI Research Enthusiast | 🤖 AI/ML | 🌐 Full-Stack Developer
-
-<p align="center">
-  <i>Exploring Intelligence • Building Technology • Solving Problems</i>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-Hi, I'm **Nurul Absar Shadik**, a **3rd-year, 2nd-semester Computer Science & Engineering student at Khulna University of Engineering & Technology (KUET)**.
-
-I’m passionate about **Artificial Intelligence and research**, with interests in **Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Vision-Language Models (VLMs), and Generative AI**.
-
-I enjoy exploring research problems, experimenting with different approaches, working with real-world datasets, and building practical AI solutions. Alongside AI, I have a strong interest in **Full-Stack Web Development**, where I turn ideas into functional and meaningful applications.
-
-Currently, I’m focused on **AI research, emerging AI technologies, practical projects, and continuously improving my problem-solving and software engineering skills**.
-
----
-
-## 🔬 Research Interests
-
-My primary interests are in:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🧬 Deep Learning
-- 🗣️ Natural Language Processing (NLP)
-- 💬 Large Language Models (LLMs)
-- 👁️ Vision-Language Models (VLMs)
-- ✨ Generative AI
-- 🔗 Multimodal AI
-- 📊 AI Model Evaluation & Benchmarking
-- 🌍 Applied & Real-World AI
-
-I’m particularly interested in exploring how **language, vision, and multimodal AI systems** can be applied to solve meaningful real-world problems.
-
----
-
-## 🚀 What I'm Currently Working On
-
-- 🔭 AI/ML research projects
-- 🧠 NLP and LLM-based applications
-- 👁️ Exploring Vision-Language Models
-- 📊 Machine Learning experiments with real-world datasets
-- 🌐 Full-Stack applications
-- 🔬 AI research and experimentation
-
----
-
-## 🌱 Currently Learning
-
-- Deep Learning
-- Natural Language Processing
-- Large Language Models
-- Vision-Language Models
-- Generative AI
-- Multimodal AI
-- Advanced Machine Learning
-- AI Research Methodologies
-
----
-
-## 🤝 Looking to Collaborate On
-
-I'm interested in collaborating on:
-
-- 🔬 AI research projects
-- 🤖 Machine Learning & Deep Learning projects
-- 🗣️ NLP / LLM projects
-- 👁️ VLM & Multimodal AI projects
-- 🌐 AI-powered web applications
-- 🌍 Open-source projects
-
-If you're working on something interesting, feel free to reach out!
-
----
-
-## 💬 Ask Me About
-
-**AI/ML • Deep Learning • NLP • LLMs • VLMs • Generative AI • Full-Stack Development**
-
----
-
-## 🛠️ Technical Skills
-
-### 👨‍💻 Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-412991?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLMs-FF4081?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-6A1B9A?style=for-the-badge&logoColor=white" />
-</p>
-
-### 🧠 AI Frameworks & Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-### 🌐 Full-Stack Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 📌 Featured Areas
-
-### 🔬 AI Research
-Exploring machine learning, deep learning, NLP, LLMs, VLMs, and multimodal AI through research and experimentation.
-
-### 🌐 Full-Stack Development
-Building complete web applications with modern frontend, backend, database, and API technologies.
-
-### 📊 Data & Machine Learning
-Working with real-world datasets, preprocessing pipelines, feature engineering, model training, evaluation, and experimentation.
-
----
-
-## 📈 GitHub Stats
+<h3 align="center">AI/ML Researcher • Full-Stack Developer • CSE Student @ KUET</h3>
 
 <p align="center">
-  <img src="YOUR_GITHUB_STATS_URL" height="180"/>
-  <img src="YOUR_TOP_LANGUAGES_URL" height="180"/>
+  <img src="https://komarev.com/ghpvc/?username=failuresoul&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/nurul-absar-shadik-01143b373"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:nurulabsarshadik65@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" /></a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a **3rd-year CSE student at Khulna University of Engineering & Technology (KUET)**, passionate about **Artificial Intelligence and research**. My interests span **Machine Learning, Deep Learning, NLP, Large Language Models (LLMs), Vision-Language Models (VLMs), and Generative AI**. I enjoy tackling research problems, experimenting with new approaches, working with real-world datasets, and building practical AI solutions.
+
+Alongside research, I'm also into **Full-Stack Web Development** — turning ideas into working products.
+
+- 🔭 **Currently working on:** AI/ML research projects, LLMs, VLMs & full-stack applications
+- 🌱 **Currently learning:** Deep Learning, NLP, LLMs, VLMs & Generative AI
+- 👯 **Looking to collaborate on:** AI research, NLP, LLM/VLM & open-source projects
+- 🤝 **Looking for help with:** Advanced AI research & research collaboration
+- 💬 **Ask me about:** AI/ML, Deep Learning, NLP, LLMs, VLMs & Full-Stack Development
+- ⚡ **Fun fact:** I started with coding, got curious about AI, and somehow ended up exploring LLMs, VLMs, and everything in between.
+- 📫 **Reach me:** nurulabsarshadik65@gmail.com
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nurul-absar-shadik-01143b373/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" /></a>
+<a href="https://kaggle.com/nurulabsarshadik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="32" width="32" /></a>
+<a href="https://www.facebook.com/nurulabsar.shadik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="32" width="32" /></a>
+<a href="https://instagram.com/shadik_65" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" /></a>
+<a href="https://www.codechef.com/users/failure_soul" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="32" width="32" /></a>
+<a href="https://www.hackerrank.com/nurulabsarshadik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="32" width="32" /></a>
+<a href="https://codeforces.com/profile/failure_soul" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="32" width="32" /></a>
+<a href="https://leetcode.com/ajolbelai_absar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="32" width="32" /></a>
+<a href="https://www.topcoder.com/members/failure_soul" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="TopCoder" height="32" width="32" /></a>
+<a href="https://discord.gg/nurulabsarshadik" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="32" width="32" /></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+**AI / ML**
+<p align="left">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</p>
+
+**Languages**
+<p align="left">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+**Web / Full-Stack**
+<p align="left">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Databases & DevOps**
+<p align="left">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+**Design & Mobile**
+<p align="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=failuresoul&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="failuresoul's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=failuresoul&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="YOUR_GITHUB_STREAK_URL" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=failuresoul&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=failuresoul&theme=tokyonight&column=7&margin-w=8&no-bg=true&no-frame=true" alt="Trophies" /></a>
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="YOUR_GITHUB_TROPHY_URL" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="YOUR_LINKEDIN_ICON_URL" width="45"/>
-</a>
-
-<a href="YOUR_KAGGLE_URL">
-  <img src="YOUR_KAGGLE_ICON_URL" width="45"/>
-</a>
-
-<a href="YOUR_CODEFORCES_URL">
-  <img src="YOUR_CODEFORCES_ICON_URL" width="45"/>
-</a>
-
-<a href="YOUR_LEETCODE_URL">
-  <img src="YOUR_LEETCODE_ICON_URL" width="45"/>
-</a>
-
-<a href="YOUR_HACKERRANK_URL">
-  <img src="YOUR_HACKERRANK_ICON_URL" width="45"/>
-</a>
-
-</p>
-
-📫 **Email:** `nurulabsarshadik65@gmail.com`
-
----
-
-## ⚡ Fun Fact
-
-> **One “How does this work?” can turn into hours of research, experiments, and sometimes a completely new project.** 🔬💻
-
----
-
-## 🎯 Future Goals
-
-- 🔬 Conduct meaningful AI research
-- 📚 Publish quality research work
-- 🤖 Build intelligent AI-powered applications
-- 🧠 Explore advanced LLM and VLM architectures
-- 🌍 Contribute to impactful open-source projects
-- 🤝 Collaborate with researchers and developers worldwide
-- 🚀 Keep learning, building, and experimenting
-
----
-
-<p align="center">
-
-### 💡 Learn. Research. Build. Innovate.
-
-<i>Always curious. Always building. Always learning.</i>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/failuresoul/failuresoul/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/failuresoul/failuresoul/output/github-contribution-grid-snake.svg" />
+    <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/failuresoul/failuresoul/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
