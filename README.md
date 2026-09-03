@@ -148,15 +148,15 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 ## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/failuresoul">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=failuresoul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=failuresoul&show_icons=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" alt="Top Languages" />
-</a>
+
+<!-- Stats Card -->
+<img src="https://streak-stats.demolab.com?user=failuresoul&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF" alt="GitHub Streak" width="400" />
+
 </p>
 
 <p align="center">
 <a href="https://github.com/failuresoul">
-  <img src="https://streak-stats.demolab.com?user=failuresoul&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=failuresoul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" alt="Most Used Language" />
 </a>
 </p>
 
@@ -165,15 +165,17 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 ## 🏆 Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=failuresoul&theme=onedark&column=7&margin-w=8&no-bg=true&no-frame=true" alt="Trophies" />
-</p>
 
----
+| 🥇 | 🥈 | 🥉 |
+|:---:|:---:|:---:|
+| **Public Repos** | **Stars** | **Followers** |
+| <img src="https://img.shields.io/badge/repos-failuresoul-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=00D4FF" /> | <img src="https://img.shields.io/github/stars/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" /> | <img src="https://img.shields.io/github/followers/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" /> |
 
-## 📈 Activity Graph
+| 📊 | ⭐ | 🔥 |
+|:---:|:---:|:---:|
+| **Commits** | **PRs** | **Issues** |
+| <img src="https://img.shields.io/github/commits/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" /> | <img src="https://img.shields.io/github/pulls/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" /> | <img src="https://img.shields.io/github/issues/failuresoul?style=for-the-badge&logo=github&labelColor=00D4FF" /> |
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=failuresoul&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
