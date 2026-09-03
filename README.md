@@ -4,7 +4,7 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="45" /> I'm Nurul Absar Shadik
 
-<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=AI%2FML+Researcher;Full-Stack+Developer;CSE+3rd+Year+@+KUET;Building+Practical+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=AI%2FML+Researcher;Full-Stack+Developer;CSE+3rd+Year+@+KUET;" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
