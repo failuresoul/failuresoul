@@ -166,7 +166,7 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=failuresoul&theme=tokyonight&column=7&margin-w=8&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=failuresoul&theme=onedark&column=7&margin-w=8&no-bg=true&no-frame=true" alt="Trophies" />
 </a>
 </p>
 
@@ -175,7 +175,9 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 ## 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=failuresoul&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true" alt="Activity Graph" />
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=failuresoul&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true" alt="Activity Graph" />
+</a>
 </p>
 
 ---
@@ -183,11 +185,9 @@ Currently, I'm focused on **AI research**, learning emerging AI technologies, de
 ## 🐍 Contribution Snake
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/failuresoul/failuresoul/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/failuresoul/failuresoul/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/failuresoul/failuresoul/output/github-contribution-grid-snake.svg" />
-</picture>
+<a href="https://github.com Platane/snk">
+  <img src="https://raw.githubusercontent.com/failuresoul/failuresoul/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+</a>
 </p>
 
 ---
